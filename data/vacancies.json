@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Frontend разработчик (React)",
+        "url": "https://api.hh.ru/vacancies/102369037?host=hh.ru",
+        "salary": null,
+        "description": ""
+    },
+    {
+        "title": "Junior Frontend developer",
+        "url": "https://api.hh.ru/vacancies/102641425?host=hh.ru",
+        "salary": null,
+        "description": ""
+    },
+    {
+        "title": "Ведущий программист Java (удалённо)",
+        "url": "https://api.hh.ru/vacancies/92430462?host=hh.ru",
+        "salary": null,
+        "description": ""
+    },
+    {
+        "title": "React Native/React developer (mob+web)",
+        "url": "https://api.hh.ru/vacancies/101515050?host=hh.ru",
+        "salary": null,
+        "description": ""
+    },
+    {
+        "title": "Java Developer",
+        "url": "https://api.hh.ru/vacancies/100390505?host=hh.ru",
+        "salary": null,
+        "description": ""
+    },
+    {
+        "title": "Frontend разработчик (React) Middle+",
+        "url": "https://api.hh.ru/vacancies/102613049?host=hh.ru",
+        "salary": null,
+        "description": ""
+    },
+    {
+        "title": "Middle Python Developer",
+        "url": "https://api.hh.ru/vacancies/102136724?host=hh.ru",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": ""
+    },
+    {
+        "title": "Frontend-разработчик в Программу лояльности",
+        "url": "https://api.hh.ru/vacancies/102291090?host=hh.ru",
+        "salary": null,
+        "description": ""
+    },
+    {
+        "title": "Cистемный администратор Linux\\DevOps",
+        "url": "https://api.hh.ru/vacancies/100609690?host=hh.ru",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": ""
+    },
+    {
+        "title": "Дизайнер интерфейсов UX/UI",
+        "url": "https://api.hh.ru/vacancies/102549823?host=hh.ru",
+        "salary": null,
+        "description": ""
+    }
+]

@@ -1,0 +1,2 @@
+venv/            # игнорировать директорию с виртуальным окружением
+data/vacancies.json   # игнорировать файл vacancies.json в папке data
